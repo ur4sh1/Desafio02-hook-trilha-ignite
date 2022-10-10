@@ -28,4 +28,4 @@ yarn dev
 ```
 
 ## :dart: Status do projeto
-Em andamento
+Finalizado
